@@ -8,7 +8,7 @@
         <style type="text/css">
             .box{
                 width:600px;
-                margin:0 auto;
+                margin:1 auto;
                 border:1px solid #ccc;
             }
         </style>
