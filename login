@@ -7,9 +7,9 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
         <style type="text/css">
             .box{
-                width:600px;
+                width:800px;
                 margin:0 auto;
-                border:1px solid #ccc;
+                border:4px solid #ccc;
             }
         </style>
     </head>
