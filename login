@@ -7,9 +7,9 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
         <style type="text/css">
             .box{
-                width:800px;
-                margin:0 auto;
-                border:4px solid #ccc;
+                width:600px;
+                margin:1 auto;
+                border:1px solid #ccc;
             }
         </style>
     </head>
@@ -49,6 +49,7 @@
                     <input type="submit" name="login" class="btn btn-primary" value="Login"/>
                 </div>
                 </form>
-            </div>    
+            </div>   
+            //added a comment
     </body>
 </html>
